@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+
+.block {
+  background-color: rgb(59, 116, 239);
+  padding: 30px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.gallery {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.container {
+  color: white;
+}
+
+.title {
+  height: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(59, 116, 239);
+  padding: 30px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.buybox {
+  height: 20em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(59, 116, 239);
+  padding: 30px;
+  margin-bottom: 15px;
+  text-align: center;
+}
